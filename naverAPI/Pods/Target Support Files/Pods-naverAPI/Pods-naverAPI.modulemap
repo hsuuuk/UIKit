@@ -1,0 +1,6 @@
+framework module Pods_naverAPI {
+  umbrella header "Pods-naverAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
